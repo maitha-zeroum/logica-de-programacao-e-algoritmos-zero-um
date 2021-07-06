@@ -1,0 +1,10 @@
+1 - Abra o terminal/bash no local em que você vai querer deixar o repositório/pasta;
+2 - Vá até o link: https://github.com/lucaszarzur/logica-de-programacao-e-algoritmos;
+3 - Clique em "Code";
+4 - Clique na opção "HTTPS";
+5 - Clique na opção de colar (ou selecione o link e copie);
+6 - Digite no terminal/bash: git clone https://github.com/lucaszarzur/logica-de-programacao-e-algoritmos.git
+
+
+DICA WINDOWS - ABRIR TERMINAL/BASH NO LOCAL DESEJADO: 
+No Windows, você pode ir até a pasta que deseja deixar o repositório, deixar pressionado a tecla "Shift" do teclado, e clicar na opção "Abrir janela do PowerShell aqui".

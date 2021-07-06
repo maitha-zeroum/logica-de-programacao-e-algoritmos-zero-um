@@ -1,0 +1,3 @@
+Aqui no Zero Um temos também o treinamento de Git, ministrado por mim (Lucas Zarzur) :)
+
+Aproveite e faça também, o Git é indispensável para qualquer projeto de software nos dias atuais.
