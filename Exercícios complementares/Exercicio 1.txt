@@ -1,0 +1,7 @@
+1 - Na sua opnião, lógica de programação é importante? Reflita.
+
+2 - Crie uma seqüência lógica para ir ao mercado.
+
+3 - Faça um algoritmo para somar dois números.
+
+4 - Faça um algoritmo para trocar uma lâmpada. Descreva com detalhes.
