@@ -1,0 +1,20 @@
+1 - Crie um algoritmo que receba suas informações (pelo menos nome, idade, e curso atual), e exiba na tela.
+
+2 - Faça um algoritmo que calcule a idade de uma pessoa com base em sua idade em total da idade (ex: 25), meses (ex: 8) e dias após o dia do seu aniversário no mês atual (ex:5) (o usuário quem irá inserir as informações), e exiba na tela.
+
+3 - Tendo como dados de entrada a altura e o sexo de uma pessoa, construa um algoritmo que calcule seu peso ideal, e informe se o peso atual está dentro do ideal, utilizando as seguintes fórmulas:
+
+Para homens: (72.7*A) - 58
+Para mulheres: (62.1*A) - 44.7 
+
+OBS: (A = altura)
+
+4 - Tendo como dados de entrada a altura e o peso (kg), construa um algoritmo que calcule seu IMC, e informe se o IMC está dentro do ideal.
+
+5 - Faça um algoritmo que leia o valor do produto, a porcentagem do valor do juros, e a quantidade de vezes em que foi parcelado esse produto. Calcule o valor final, além dos juros e valor por parcela, (inseridos pelo usuário), e exiba na tela toda as informações.
+
+6 - Faça um algoritmo que receba um número e diga se ele é de par ou impar.
+
+7 - Faça um algoritmo que receba um número e diga se ele é positivo ou negativo.
+
+8 - Crie um algoritmo de doação com menu de escolha, que apresentará ao usuário 3 opções com valores diferentes para doação. Quando o usuário escolher, o programa deve solicitar sua confirmação, e ao final do processo exibir o valor de doação com uma mensagem de agradecimento. 
