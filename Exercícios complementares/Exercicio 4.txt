@@ -1,0 +1,29 @@
+1 - Faça um algoritmo que determine o maior número entre N números. A condição de parada é a entrada de um valor 0, ou seja, o algoritmo deve ficar calculando o maior até que a entrada seja igual a 0 (ZERO).
+
+2 - Faça um algoritmo que conte de 1 a 100 e a cada múltiplo de 10 emita uma mensagem: "Múltiplo de 10".
+
+3 - Faça um algoritmo que conte de 0 a 10, exiba a contagem na tela.
+
+4 - Faça um algoritmo que leia o nome de 3 alunos, os coloque num vetor, e imprima com os na tela.
+
+5 - Crie um algoritmo de tabuada, o usuário poderá escolher qual tabuada ele deseja ver, o programa irá calcular e exibir na tela.
+
+6 - Faça um algoritmo que receba 5 valores, e exiba a: 
+* Soma dos valores
+* media entre os valores
+* quantos sao divisiveis por 5
+* quantos sao nulos
+* soma dos pares
+
+7 - Faça um algoritmo que irá ler a quantidade de alunos que uma turma possui, pedirá o nome e a nota (2 notas) de cada aluno, e apresentará ao final do programa quem foi o melhor aluno.
+
+8 - Faça uma função chamada "OrdenaVetor" que irá receber 10 valores, irá ordena-los e exibir na tela já ordenados.
+
+9 - Faça um algoritmo de reserva de cadeiras do cinema, apenas da fileira C. Use procedimentos.
+
+10 - Faça um algoritmo que preencha uma matriz de [1..3, 1..3] e mostre quais sao as posicoes que possuem valores pares.
+
+11 - Construa um algoritmo que leia X valores inteiros e positivos e:
+• Encontre o maior valor
+• Encontre o menor valor
+• Calcule a soma dos números lidos
