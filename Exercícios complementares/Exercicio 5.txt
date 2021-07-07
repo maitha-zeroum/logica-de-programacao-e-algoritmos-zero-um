@@ -1,0 +1,9 @@
+1 - Faça um algoritmo que leia o nome de 3 alunos, os coloque num vetor, e imprima com os na tela.
+
+2 - Faça um algoritmo que irá ler a quantidade de alunos que uma turma possui, pedirá o nome e a nota (2 notas) de cada aluno, e apresentará ao final do programa quem foi o melhor aluno.
+
+3 - Faça uma função chamada "OrdenaVetor" que irá receber 10 valores, irá ordena-los e exibir na tela já ordenados.
+
+4 - Faça um algoritmo de reserva de cadeiras do cinema, apenas da fileira C. Use procedimentos.
+
+5 - Faça um algoritmo que preencha uma matriz de [1..3, 1..3] e mostre quais sao as posicoes que possuem valores pares.
