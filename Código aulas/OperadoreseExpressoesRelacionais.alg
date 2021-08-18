@@ -1,11 +1,11 @@
 Algoritmo "semnome"
 // 
 //
-// DescriÁ„o   : Operadores e expressıes relacionais
+// Descri√ß√£o   : Operadores e express√µes relacionais
 // Autor(a)    : Lucas Zarzur
 // Data atual  : 09/03/2021
 Var
-comicaoVendedor1, comicaoVendedor2: real
+comissaoVendedor1, comissaoVendedor2: real
 
 idadeMae: inteiro
 
@@ -18,31 +18,31 @@ signoCrush, meuSigno: caractere
 
 Inicio
 // Entrada de valores
-comicaoVendedor1 <- 250.50
-comicaoVendedor2 <- 235.95
+comissaoVendedor1 <- 250.50
+comissaoVendedor2 <- 235.95
 idadeMae <- 37
 idadeDeMaior <- 18
 numero_secreto <- 10
 
 
 // Maior que
-Escreval ("A comiÁ„o do vendedor 1 È maior que a do vendedor 2? ", comicaoVendedor1 > comicaoVendedor2)
+Escreval ("A comi√ß√£o do vendedor 1 √© maior que a do vendedor 2? ", comissaoVendedor1 > comissaoVendedor2)
 
 
 // Menor que
-Escreval ("Sua m„e tem menos que 40 anos? ", idadeMae < 40)
+Escreval ("Sua m√£e tem menos que 40 anos? ", idadeMae < 40)
 
 
 // Maior ou igual a
 Escreval ("Digite sua idade: ")
 Leia (idade)
-Escreval ("Voce È de maior? ", idade >= idadeDeMaior)
+Escreval ("Voce √© de maior? ", idade >= idadeDeMaior)
 
 
 // Menor ou igual a
 Escreval ("Digite sua idade novamente: ")
 Leia (idade)
-Escreval ("Voce È de menor? ", idade <= 17)
+Escreval ("Voce √© de menor? ", idade <= 17)
 
 
 // Igual a
@@ -56,6 +56,6 @@ Escreval ("Digite o signo do seu crush: ")
 Leia (signoCrush)
 Escreval ("Digite o seu signo: ")
 Leia (meuSigno)
-Escreval ("Seu signo È diferente do signo do seu crush? ", meuSigno <> signoCrush)
+Escreval ("Seu signo √© diferente do signo do seu crush? ", meuSigno <> signoCrush)
 
 Fimalgoritmo
