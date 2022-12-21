@@ -1,7 +1,57 @@
 1 - Na sua opnião, lógica de programação é importante? Reflita.
 
+A sem lógica de programação não teríamos como dar um norte para resolver os problemas com eficiência do cotitiano em um aspecto computacional.
 2 - Crie uma seqüência lógica para ir ao mercado.
+Pegar a chave da casa
+Ir até a porta da casa
+Abrir a porta da casa
+Fechar a porta da casa
+Passa pelo portão da aréa externa da casa
+Fechar o portão da aréa externa da casa
+Caminhar por cima da calçada em direção ao mercado
+Andar apenas pelas aréas destindas ao pedestre
+Entrar no mercado
+iniciar comprar.
 
 3 - Faça um algoritmo para somar dois números.
 
+Receber os dois números
+Somar número1 + número2
+Retornar o resultado
+
 4 - Faça um algoritmo para trocar uma lâmpada. Descreva com detalhes.
+
+Andar até a dispensa
+Abrir o armário
+Peagr a lâmpada nova
+Fechar a porta do armário
+Andar até o quarto de ferramentas
+Abrir a porta do quarto de ferramentas
+Pegar a escada
+Sair do quarto de ferramentas
+Fechar a porta do quarto de ferramentas
+Andar até o interruptor geral da casa
+Delisgar o interruptor
+Colocar a escada debaixo da lâmpada com defeito
+Apoiar a escada de forma segura
+Subir na escada utilizando uma mão de apoio
+Com a outra segurar a lâmpada nova
+Subir na escada até ficar na altura ideal para trocar a lâmpada
+Apoiar a lâmpada nova na escada
+Utilizar as duas mãos para retirar a lâmpada com defeito
+Pegar a lâmpada nova e colocar no lugar da lâmpada com defeito
+Pegar a lâmpada com defeito com uma mão 
+Utilizar a outra mão como apoio para descer a escada
+Envolver a lâmpada com defeito em papel 
+Descaerta a lâmpada com defeito de forma segura
+Ir para o interruptor geral
+Ligar o interruptor
+Verificar se está funcionando corretamente
+Ir até a escada
+Levar até o quarto de ferramentas
+Abir a porta do quarto de feramentas
+Guardar a escada
+Sair do quarto de ferramentas
+Fechar a porta do quarto de ferramentas
+Ir até a sala
+Sentar no sofá
